@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="txt_email_edit_text">Email ya da telefon numarası</string>
+    <string name="txt_password_edit_text">Şifre</string>
+    <string name="txt_login_button_text">Giriş</string>
+    <string name="txt_search">Ara</string>
+    <string name="txt_sell">Ne Satıyorsun?</string>
+    <string name="txt_homepage_welcome">Facebooka hoş geldin</string>
+</resources>

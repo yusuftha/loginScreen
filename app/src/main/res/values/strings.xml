@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="txt_email_edit_text">Email Or Phone</string>
+    <string name="txt_password_edit_text">Password</string>
+    <string name="txt_login_button_text">Log In</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_sell">What are you selling?</string>
+    <string name="txt_homepage_welcome">Welcome to facebook</string>
+</resources>
